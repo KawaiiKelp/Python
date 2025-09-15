@@ -49,6 +49,5 @@ print("양파깡" not in name_list)
 print("12" not in name_list)
 print("새우깡" in name_list)
 
-i = [5, 4, 6, 3]
-print(9 in i)
-print(3 not in i)
+n = int(input())
+print(-n)
